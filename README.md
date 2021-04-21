@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @Collaborat3... AKA Edwin 
+- This is my first repository.  
+- The music industry needs a global search/social networking community to help match creatives, businesses, techs and instructors to meet their next team member.
+- Aligning similar goals, skills, current position, offered/needed wage, Sorting by profession, genre, instrument, specialties, remote or travel preferences.
+- Users/businesses fill out all of the above, add video/audio demos, project details, instruction tutorials, contact requirements, pricing and contract info.
+- Schedule real-time chat to record, practice, learn, collab, and accept payments for services via multi-party escrow agreements.  
+- Stream above sessions live to audiences, or join already open sessions.  
+- Create a fan hub to search for creators by above criteria, connect with peers, and interact/grow with creators and their carreers.  
+- Code for future MMO RPG character customization to scale for greater distance propinquity. 
+- Break geo/demographic/genre boundaries with socio-cultural collab challenges.
+- With the Goal to build the largest amount of ACTIVELY participating attendants at a live event (creative inclusion)   
+- 
+
+- Project management experience, but no coding knowledge.  
