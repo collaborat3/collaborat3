@@ -9,6 +9,4 @@
 - Code for future MMO RPG character customization to scale for greater distance propinquity. 
 - Break geo/demographic/genre boundaries with socio-cultural collab challenges.
 - With the Goal to build the largest amount of ACTIVELY participating attendants at a live event (creative inclusion)   
-- 
-
 - Project management experience, but no coding knowledge.  
